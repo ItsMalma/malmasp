@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Malma",
+  "classifications": [ "Web", "ASP" ],
+  "identity": "Malma.ASP.Template",
+  "name": "Malma ASP Template",
+  "shortName": "malmasp",
+  "sourceName": "Malmasp",
+  "tags": {
+    "type": "project",
+    "language": "C#"
+  }
+}
