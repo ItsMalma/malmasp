@@ -9,5 +9,10 @@
   "tags": {
     "type": "project",
     "language": "C#"
-  }
+  },
+  "sources": [
+    {
+      "exclude": ".template.config/**/*"
+    }
+  ]
 }

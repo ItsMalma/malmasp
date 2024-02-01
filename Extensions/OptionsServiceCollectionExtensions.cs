@@ -1,4 +1,3 @@
-using System.Runtime.CompilerServices;
 using Malmasp.Options;
 
 namespace Malmasp.Extensions;

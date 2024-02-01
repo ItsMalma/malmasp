@@ -1,10 +1,8 @@
-using System.Reflection;
 using System.Text;
 using System.Text.Json;
 using Malmasp.Contexts;
 using Malmasp.Extensions;
 using Malmasp.Middlewares;
-using Malmasp.Profiles;
 using Malmasp.Services;
 using Microsoft.IdentityModel.Tokens;
 using Serilog;

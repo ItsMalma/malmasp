@@ -1,5 +1,4 @@
-﻿using System.Reflection;
-using AutoMapper;
+﻿using AutoMapper;
 using Malmasp.Profiles;
 using Malmasp.Services;
 
